@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Vaibhav Kumar 👋
 
-<!--
-**hudson-hornet-01/hudson-hornet-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Computer Science student
+- Learning Django and Machine Learning
+- Interested in Software Development and Open Source
+- Solving programming problems regularly
 
-Here are some ideas to get you started:
+## Skills
+- C
+- C++
+- Java
+- Python
+- Django
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Food Ordering Django App
+- Event Management System
+
+## Currently Learning
+- Backend Development
+- Machine Learning
+- Open Source Contribution
